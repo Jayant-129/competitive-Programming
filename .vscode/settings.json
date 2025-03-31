@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.default.compilerPath": "/opt/homebrew/bin/g++-14",
+  "files.associations": {
+    "*.ejs": "html",
+    "iostream": "cpp"
+  }
+}
