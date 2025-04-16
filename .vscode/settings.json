@@ -3,6 +3,9 @@
   "C_Cpp.default.compilerPath": "/opt/homebrew/bin/g++-14",
   "files.associations": {
     "*.ejs": "html",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "regex": "cpp",
+    "chrono": "cpp",
+    "ios": "cpp"
   }
 }
